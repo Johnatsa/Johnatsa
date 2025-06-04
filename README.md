@@ -10,8 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,MySQL" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,mysql,vhdl" />
 </p>
 
 <hr>
