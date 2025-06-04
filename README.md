@@ -5,4 +5,13 @@
   <img src="https://profile-counter.glitch.me/{Johnatsa}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/{Johnatsa}/{Johnatsa}/blob/main/what-is-coding.webp" alt="Raining code">
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,c++,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
